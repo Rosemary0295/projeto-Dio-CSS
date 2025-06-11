@@ -10,7 +10,7 @@
 @import url('reset.css');
 
 body {
-  background-color: rgb(50, 46, 46);
+  background-color: rgb(85, 7, 7);
 }
 
 h2 {
@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-  color: white;
+  color: rgb(243, 232, 232);
 }
 
 section {
